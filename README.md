@@ -23,3 +23,6 @@ Access `index.html` on your web browser. Input raspberry pi endpoint in `URL` fi
 
 ### circuit diagram
 ![Circuit Diagram](doc/circuit_diagram.png)
+
+## Thanks to
+- Controller CSS https://qiita.com/idaida_idaida/items/47e07c27b08426e46f16
